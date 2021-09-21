@@ -56,6 +56,8 @@
 		007F5C3B26FA646B009A198F /* DH-iOS-Course */ = {
 			isa = PBXGroup;
 			children = (
+				007F5C5126FA6486009A198F /* Дипломная Работа */,
+				007F5C5026FA6477009A198F /* ДЗ */,
 				007F5C3C26FA646B009A198F /* AppDelegate.swift */,
 				007F5C3E26FA646B009A198F /* SceneDelegate.swift */,
 				007F5C4026FA646B009A198F /* ViewController.swift */,
@@ -65,6 +67,36 @@
 				007F5C4A26FA646C009A198F /* Info.plist */,
 			);
 			path = "DH-iOS-Course";
+			sourceTree = "<group>";
+		};
+		007F5C5026FA6477009A198F /* ДЗ */ = {
+			isa = PBXGroup;
+			children = (
+				007F5C5326FA64D8009A198F /* ДЗ-Swift №2 */,
+				007F5C5226FA649D009A198F /* ДЗ-Swift №1 */,
+			);
+			path = "ДЗ";
+			sourceTree = "<group>";
+		};
+		007F5C5126FA6486009A198F /* Дипломная Работа */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Дипломная Работа";
+			sourceTree = "<group>";
+		};
+		007F5C5226FA649D009A198F /* ДЗ-Swift №1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "ДЗ-Swift №1";
+			sourceTree = "<group>";
+		};
+		007F5C5326FA64D8009A198F /* ДЗ-Swift №2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "ДЗ-Swift №2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
