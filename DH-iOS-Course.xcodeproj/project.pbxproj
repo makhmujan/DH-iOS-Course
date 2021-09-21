@@ -24,6 +24,7 @@
 		007F5C4526FA646C009A198F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		007F5C4826FA646C009A198F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		007F5C4A26FA646C009A198F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		007F5C5426FA748E009A198F /* HW-1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "HW-1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +89,7 @@
 		007F5C5226FA649D009A198F /* ДЗ-Swift №1 */ = {
 			isa = PBXGroup;
 			children = (
+				007F5C5426FA748E009A198F /* HW-1.playground */,
 			);
 			path = "ДЗ-Swift №1";
 			sourceTree = "<group>";
